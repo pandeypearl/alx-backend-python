@@ -1,5 +1,6 @@
-#!/usr/bin/env pytho3
+#!/usr/bin/env python3
 """ Asynchronous coroutine wait_random """
+
 import asyncio
 import random
 
