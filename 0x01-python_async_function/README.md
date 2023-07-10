@@ -1,11 +1,11 @@
 # 0x01. Python - Async
 Introduction to Python async covering the following:
 
-x async and await syntax
-x How to execute an async program with asyncio
-x How to run concurrent coroutines
-x How to create asyncio tasks
-x How to use the random module
++ async and await syntax
++ How to execute an async program with asyncio
++ How to run concurrent coroutines
++ How to create asyncio tasks
++ How to use the random module
 
 ## Tasks
 
